@@ -1,12 +1,20 @@
-- 👋 Hi there, my name is Tahirah, an IT Professional
-- 👀 I’m interested in becoming a fullstack developer
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me tahirahnoir@outlook.com or Instagram @tahirah.codes
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I appeared in the newspaper once for academic achievement.
+<h1>Hi, I'm Tahirah, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
-<!---
-tahirahcodes/tahirahcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Tahirah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tahirah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/tahirah.codes
+[linkedin]: https://linkedin.com/in/tahirah-roberts
